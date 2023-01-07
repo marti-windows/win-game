@@ -25,8 +25,8 @@
     <h2>Future Work</h2>
     <p>There are lots of exciting features that will be added in the future. If you encounter any issues or have a feature request, you are welcome to open a Github issue or pull request. If you enjoy this repository, please consider giving it a star, tweeting about it, or telling your friends about it. We appreciate your support!</p>
     <h2>Contributors</h2>
-    <ul>
-      <li><a href="https://www.linkedin.com/in/david-martinez-a693b165/">Marti</a></li>
-    </ul>
+    <blockquote>
+      <p><a href="https://www.linkedin.com/in/david-martinez-a693b165/">Marti</a></p>
+    </blockquote>
   </body>
 </html>
